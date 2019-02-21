@@ -1,0 +1,6 @@
+{
+    "env": {
+        "DB_PASSW": "project-manager",
+        "JWT_KEY": "secret"
+    }
+}
